@@ -14,3 +14,5 @@ Pour installer les dépendances
 ```bash
 pip install -r requirements.txt
 ```
+
+[![Construction image Docker](https://github.com/artmanceau/application_ex/actions/workflows/prod.yaml/badge.svg)](https://github.com/artmanceau/application_ex/actions/workflows/prod.yaml)
